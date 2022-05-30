@@ -1,5 +1,5 @@
 ## Desafio projeto BarberShop - conclusão de módulo.
-<a><img src="imagens/projetobabershop.png" width="680px" height="480px"></a>
+<img src="imagens/projetobabershop.png" width="680px" height="480px">
 
 ###
 
